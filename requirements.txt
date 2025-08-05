@@ -1,13 +1,6 @@
 voila
 notebook
-IPython.display
 ipywidgets
-time
-random
-datetime
-threading
-collections
 pandas
 numpy
-sklearn.ensemble
-sklearn.preprocessing
+scikit-learn
